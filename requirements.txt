@@ -1,0 +1,2 @@
+   1 customtkinter
+   2 PyMuPDF
