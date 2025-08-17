@@ -1,0 +1,6 @@
+{
+    "input_pdf_folder": "Rightfax folder",
+    "output_text_folder": "CPRS documents for provider to sign",
+    "archive_folder": "PDF files to be archived in vistaimaging",
+    "failed_text_extraction_folder": "failed text extraction folder"
+}
